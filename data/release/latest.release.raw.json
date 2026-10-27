@@ -67,7 +67,7 @@
       "state": "uploaded",
       "size": 537,
       "digest": "sha256:fbe045b9f3d8cefed0b3ef3c1b0d58168c3f2692e1ec30f73bed207f57721ad3",
-      "download_count": 1,
+      "download_count": 3,
       "created_at": "2025-07-08T18:32:48Z",
       "updated_at": "2025-07-08T18:32:48Z",
       "browser_download_url": "https://github.com/fractalops/fli/releases/download/v0.1.0/fli_0.1.0_checksums.txt"
@@ -103,7 +103,7 @@
       "state": "uploaded",
       "size": 3611245,
       "digest": "sha256:39f88a76bde0f8a42b2b9be53c2a787c0d2fc25d62f76be6253348624acb34f7",
-      "download_count": 14,
+      "download_count": 16,
       "created_at": "2025-07-08T18:32:48Z",
       "updated_at": "2025-07-08T18:32:48Z",
       "browser_download_url": "https://github.com/fractalops/fli/releases/download/v0.1.0/fli_Darwin_arm64.tar.gz"
@@ -139,7 +139,7 @@
       "state": "uploaded",
       "size": 3846718,
       "digest": "sha256:423c386f90d4ade8ebbf753151eab4258d9a382f05b2f0b2fae3c458139e66f5",
-      "download_count": 9,
+      "download_count": 10,
       "created_at": "2025-07-08T18:32:48Z",
       "updated_at": "2025-07-08T18:32:48Z",
       "browser_download_url": "https://github.com/fractalops/fli/releases/download/v0.1.0/fli_Darwin_x86_64.tar.gz"
@@ -175,7 +175,7 @@
       "state": "uploaded",
       "size": 3470856,
       "digest": "sha256:11f2f157a84ff5d818313570537e5b9ba355c412d27598e894b670e000a517e8",
-      "download_count": 5,
+      "download_count": 6,
       "created_at": "2025-07-08T18:32:47Z",
       "updated_at": "2025-07-08T18:32:47Z",
       "browser_download_url": "https://github.com/fractalops/fli/releases/download/v0.1.0/fli_Linux_arm64.tar.gz"
@@ -211,7 +211,7 @@
       "state": "uploaded",
       "size": 3779256,
       "digest": "sha256:e93dbf457b0cb50ebc1599766850b647eddc4902bbb10dc3ad8f699ae8ccf7f8",
-      "download_count": 296,
+      "download_count": 298,
       "created_at": "2025-07-08T18:32:47Z",
       "updated_at": "2025-07-08T18:32:48Z",
       "browser_download_url": "https://github.com/fractalops/fli/releases/download/v0.1.0/fli_Linux_x86_64.tar.gz"
@@ -247,7 +247,7 @@
       "state": "uploaded",
       "size": 3526791,
       "digest": "sha256:75bf63ed913e64ebe956cf8c387a519818fc75e6afb4096641ada1668f9e1630",
-      "download_count": 4,
+      "download_count": 5,
       "created_at": "2025-07-08T18:32:47Z",
       "updated_at": "2025-07-08T18:32:48Z",
       "browser_download_url": "https://github.com/fractalops/fli/releases/download/v0.1.0/fli_Windows_arm64.zip"
@@ -283,7 +283,7 @@
       "state": "uploaded",
       "size": 3890643,
       "digest": "sha256:1bf976819e837f9882b519cdd9dea34acb36ddf6aa2bf0f33126ed383cdd2cf2",
-      "download_count": 6,
+      "download_count": 7,
       "created_at": "2025-07-08T18:32:47Z",
       "updated_at": "2025-07-08T18:32:48Z",
       "browser_download_url": "https://github.com/fractalops/fli/releases/download/v0.1.0/fli_Windows_x86_64.zip"
