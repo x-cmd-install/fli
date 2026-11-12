@@ -15,7 +15,7 @@
   binname: fli
   visiblename: net-mgmt/fli
   version: 0.1.0
-  origversion: 0.1.0_19
+  origversion: 0.1.0_20
   status: outdated
   summary: Analyze AWS VPC Flow Logs with ease
   maintainers:
